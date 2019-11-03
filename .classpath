@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/MonA/Dropbox/My project/PRG _ Version 2/Original/External_Libraries/STANFORD/CorlNLP/stanford-corenlp-full-2014-01-04/stanford-corenlp-full-2014-01-04/stanford-corenlp-3.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MonA/Dropbox/My project/PRG _ Version 2/Original/External_Libraries/STANFORD/CorlNLP/stanford-corenlp-full-2014-01-04/stanford-corenlp-full-2014-01-04/stanford-corenlp-3.3.1-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MonA/Dropbox/My project/PRG _ Version 2/Original/External_Libraries/STANFORD/PARSER/stanford-parser-full-2014-01-04/stanford-parser-full-2014-01-04/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MonA/Dropbox/My project/PRG _ Version 2/Original/External_Libraries/STANFORD/PARSER/stanford-parser-full-2014-01-04/stanford-parser-full-2014-01-04/stanford-parser-3.3.1-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MonA/Dropbox/My project/PRG _ Version 2/Original/External_Libraries/POI/poi-3.9/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MonA/Dropbox/My project/PRG _ Version 2/Original/External_Libraries/STANFORD/POS-Tagger/stanford-postagger-2015-04-20/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MonA/Dropbox/My project/PRG _ Version 2/Original/External_Libraries/STANFORD/POS-Tagger/stanford-postagger-2015-04-20/stanford-postagger-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MonA/Dropbox/My project/PRG _ Version 2/Original/External_Libraries/STANFORD/Tregex/stanford-tregex-2015-04-20/stanford-tregex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MonA/Dropbox/My project/PRG _ Version 2/Original/External_Libraries/STANFORD/Tregex/stanford-tregex-2015-04-20/stanford-tregex-3.5.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
